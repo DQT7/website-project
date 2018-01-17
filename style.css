@@ -1,0 +1,74 @@
+
+
+
+.contain {
+    height:100%;
+    margin:0%;
+    opacity: 65.95;
+  
+
+}
+
+body {
+    font: color  white ;
+    
+
+    /* background-image: url('http://i.funny.pho.to/templates/936/preview220.jpg'); */
+
+    background-image: url('https://media.istockphoto.com/photos/boxing-empty-professional-ring-with-crowd-picture-id619736822?k=6&m=619736822&s=612x612&w=0&h=Plr-dFepxe5gYAhJusL7Z6SebTi1IluFjEGhCXOUxz8=');
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(16, 112, 221)
+    
+  
+}
+
+
+.mainpart1{
+    width: 30%;;
+    height:30%;
+    margin-left:20%;
+    margin-top:-90%;
+    border: 5px dotted rgb(176, 194, 15);
+    border-radius: 0px 66px 0px 66px;
+    background-color: rgb(99, 98, 99);
+    position:absolute;
+    /* top:615px;
+    left:260px; */
+    opacity:0.50 }
+
+    .mainpart2{
+        text-decoration-color: blanchedalmond;
+        text-decoration-style: solid color: yellow;
+        width:30%;
+        height:30%;
+        margin-top:-90%;
+        border: 5px dotted rgb(176, 194, 15);
+        border-radius: 66px 0px 66px 0px;
+        background-color: rgb(99, 98, 99);
+        position:absolute;
+        /* top:-150px; */
+        left:1060px;
+        opacity:0.50}
+
+      .sidebar{
+         width:10%;
+            height:2000px;
+            border: 5px solid  rgb(176, 194, 15);
+            border-radius: 0px 0px 55px 55px;
+            background-color:gray;
+            position:relative;
+            }
+          
+            
+
+
+
+.middlesquarel{
+
+}
+.middlesquarer{
+
+}
